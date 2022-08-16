@@ -5,8 +5,12 @@ More info goes here
 
 ## Introduction
 
+This is my introduction.
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+Contribution description should go here.
