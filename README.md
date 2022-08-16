@@ -6,6 +6,8 @@ More info goes here
 ## Introduction
 
 This is my introduction.
+Enter something here
+Or even more content here.
 
 ## Purpose
 
