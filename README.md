@@ -17,3 +17,5 @@ MAke sure to add a purpose for this.
 ## How to Contribute
 
 Contribution description should go here.
+
+2014 Git.Training
