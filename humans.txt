@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gil Ortiz go1227@gmail.com
 
 # THANKS
 
