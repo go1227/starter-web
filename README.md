@@ -20,4 +20,4 @@ MAke sure to add a purpose for this.
 Please ask contributors for more info.
 Contribution description should go here.
 
-2014 Git.Training
+2014 Git.Training. All rights reserved.
